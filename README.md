@@ -1,5 +1,5 @@
-# Real-time-Image-simulator
-# Realtime Image Simulator
+# Real-time-Image-Simulator
+
 
 **Author:** *Freeman Jin, Chandrima Sengupta*
 
